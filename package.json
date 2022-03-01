@@ -8,7 +8,7 @@
     "fs-extra": "^10.0.0",
     "lodash.set": "^4.3.2",
     "mime-types": "^2.1.27",
-    "sqlite3": "5.0.2"
+    "mysql": "2.18.1"
   },
   "name": "backend",
   "private": true,
@@ -21,7 +21,7 @@
     "strapi": "strapi"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Gediminas Survila"
   },
   "strapi": {
     "uuid": "8f636a8c-900b-4211-bd7b-53b484f58afe",
